@@ -6,8 +6,8 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "Japmann Sarin",
-  "license": "MIT",
+  "author": "Aryan aggarwal",
+  "license": "me",
   "devDependencies": {
     "jest": "^29.0.0",
     "jest-environment-jsdom": "^29.0.0"
